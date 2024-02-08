@@ -4,9 +4,7 @@
 
 
 <head>
-  
-	<!-- This page is running on Unicorn Platform. Generated at October 19, 2023, 8:06 AM-->
-  
+    
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="alternate" href="https://texaswebdesign.co/" hreflang="en" />
